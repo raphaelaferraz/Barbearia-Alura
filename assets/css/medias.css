@@ -1,0 +1,108 @@
+@media screen and (max-width: 375px) {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, form {
+        width: auto;
+    }
+    .input-padrao, .enviar {
+        width: 80%;
+    }
+    nav a {
+        font-size: 16px;
+        font-weight: bold;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, form  {
+        width: auto;
+    }
+    .produtos li {
+        width: 95%; 
+        margin-top: 15px;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    nav {
+    display: flex;
+    justify-content: center;    
+    }
+    p {
+        font-size: 18px;
+    }
+    .lista-beneficios {
+        font-size: 18px;
+    }
+    .imagem-beneficios {
+        margin: 0 0 0 40px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, form {
+        width: auto;
+    }
+    .mapa-conteudo, .video, .utensilios {
+        margin: 9px;
+    }
+    .caixa {
+        text-align: center;
+    }
+    nav {
+        position: static;
+    }
+    .principal {
+        padding: 1em 0;
+    }
+    .principal h2 {
+        padding: 0px 12px;
+        line-height: 1.5;
+    }
+    .itens {
+        padding: 0 10px;
+    }
+    .lista-beneficios {
+        width: 100%;
+    }
+    .imagem-beneficios {
+        margin: 9px;
+        width: 95%;
+    }
+    .produtos li {
+        width: 95%; 
+        margin-top: 15px;
+    }
+    form select {
+        width: 72%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, form {
+        width: auto;
+    }
+    .utensilios, .mapa-conteudo, .video {
+        margin: 9px;
+    }
+    .itens {
+        margin: 0 0 0 30px;
+    }
+   .imagem-beneficios {
+    width: 70%;
+    margin-left: 2.5em;
+    margin-bottom: 2em;
+   }
+   .produtos li {
+    width: 95%; 
+    margin-top: 15px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, form  {
+        width: auto;
+    }
+    .produtos li {
+        width: 95%; 
+        margin-top: 15px;
+    }
+}

@@ -1,0 +1,11 @@
+footer {
+    text-align: center;
+    background: url("../img/bg.jpg");
+    padding: 40px 0;
+}
+
+.Copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    padding: 20px 0 0;
+}
