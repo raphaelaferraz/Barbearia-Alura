@@ -1,3 +1,8 @@
+header, a {
+    color: transparent;
+    left: -100000px;
+}
+
 form {
     margin: 40px 40px;
 }
