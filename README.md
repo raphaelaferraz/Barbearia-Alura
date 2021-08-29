@@ -1,6 +1,6 @@
-# Barbearia Alura
+# Barbearia Alura 💇
 
-Esse foi um projeto desenvolvido durante a primeira parte da Formação Front-end da Alura!
+Esse foi um projeto desenvolvido durante a primeira parte da Formação Front-end da Alura! 
 O site contém a página <strong>home</strong> que possui as seguintes informações:
 <ul>
   <li>Sobre a barbearia Alura;</li>
